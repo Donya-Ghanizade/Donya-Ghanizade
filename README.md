@@ -45,6 +45,7 @@ Python projects focused on programming fundamentals, problem solving, and practi
 ### 🔧 Git & GitHub
 
 Hands-on projects covering Git fundamentals, branching, merging, rebasing, conflict resolution, and GitHub workflows.
+
 🔗 [View Git & GitHub Projects](https://github.com/Donya-Ghanizade/gittutorial)
 
 ---
