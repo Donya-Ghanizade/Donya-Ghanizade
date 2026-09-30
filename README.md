@@ -36,7 +36,6 @@ I enjoy learning through practical projects and continuously improving my progra
 ### 🗄️ SQL Server & T-SQL
 
 Practical SQL Server projects and exercises covering querying, filtering, aggregation, joins, subqueries, database design, and normalization.
-🔗 View SQL Server Projects
 
 ### 🐍 Python
 
