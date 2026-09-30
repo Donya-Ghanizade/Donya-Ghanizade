@@ -1,3 +1,5 @@
+![Donya Ghanizade](./github-pic.jpg)
+
 ## Hi there 👋
 
 # I'm Donya Ghanizade
