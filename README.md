@@ -1,4 +1,4 @@
-![Donya Ghanizade](./github.jpg)
+![Donya Ghanizade](./Github (2).jpg)
 
 ## Hi there 👋
 
