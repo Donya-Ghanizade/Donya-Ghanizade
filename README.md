@@ -59,11 +59,12 @@ Hands-on projects covering Git fundamentals, branching, merging, rebasing, confl
 
 ## 🌱 Currently Learning
 
-* Advanced SQL & T-SQL
-* Data Analysis
-* Software Testing
-* Python Development
-* Backend Development
+*  Advanced SQL & T-SQL
+*  Data Analysis
+*  Software Testing
+*  Python Development
+*  Git & GitHub Workflows
+
 
 ---
 
