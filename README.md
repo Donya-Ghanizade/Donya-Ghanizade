@@ -36,6 +36,7 @@ I enjoy learning through practical projects and continuously improving my progra
 ### 🗄️ SQL Server & T-SQL
 
 Practical SQL Server projects and exercises covering querying, filtering, aggregation, joins, subqueries, database design, and normalization.
+🔗 [View SQL Server Projects](https://github.com/Donya-Ghanizade/SQL-Server-Projects)
 
 ### 🐍 Python
 
@@ -44,6 +45,7 @@ Python projects focused on programming fundamentals, problem solving, and practi
 ### 🔧 Git & GitHub
 
 Hands-on projects covering Git fundamentals, branching, merging, rebasing, conflict resolution, and GitHub workflows.
+🔗 [View Git & GitHub Projects](https://github.com/Donya-Ghanizade/gittutorial)
 
 ---
 
