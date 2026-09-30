@@ -4,9 +4,13 @@
 
 ### 💻 Computer Engineering Graduate
 
-I'm a Computer Engineering graduate interested in **software development, programming, databases, and data**.
+I'm a Computer Engineering graduate interested in software development, databases, and data.
 
-I enjoy learning through practical projects and continuously improving my programming and problem-solving skills.
+💻 Building practical projects with Python and SQL Server
+🗄️ Developing my skills in T-SQL and database development
+🔧 Practicing Git & GitHub through hands-on projects
+📊 Exploring Data Analysis and Software Testing
+🌱 Always learning, building, and improving
 
 ---
 
