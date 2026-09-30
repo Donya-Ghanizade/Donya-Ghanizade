@@ -9,9 +9,13 @@
 I'm a Computer Engineering graduate interested in software development, databases, and data.
 
 💻 Building practical projects with Python and SQL Server
+
 🗄️ Developing my skills in T-SQL and database development
+
 🔧 Practicing Git & GitHub through hands-on projects
+
 📊 Exploring Data Analysis and Software Testing
+
 🌱 Always learning, building, and improving
 
 ---
