@@ -82,7 +82,7 @@ This profile contains my learning journey, practical projects, SQL exercises, Py
 
 ## 📫 Connect With Me
 
-* 💼 LinkedIn : www.linkedin.com/in/donya-ghanizade-1380engineering
+* 💼 LinkedIn : www.linkedin.com/in/donya-ghanizadeengineering
 * 📧 Email : donya1380engineering@gmail.com
 * 🐙 GitHub : https://github.com/Donya-Ghanizade
 
